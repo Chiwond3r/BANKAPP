@@ -45,7 +45,12 @@ target/
 build/
 
 # Other files
-*.swp
-*.swo
 .DS_Store
 Thumbs.db
+*.swp
+
+# Environment files
+.env
+
+# Windows files
+desktop.ini
